@@ -20,11 +20,38 @@ I am a seasoned FullStack MERN developer with a passion for crafting efficient a
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 
-### Interface Design
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-4A90E2?logo=figma&logoColor=white&style=flat)
+### Back-End Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 
-### Diverse Project Portfolio
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat)
+### Database
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+
+### Other Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
+## 📊 Statistics
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Bfrpaulon&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bfrpaulon&layout=compact&theme=dark)
+
+## 📅 Quote of the Day in Tech
+
+> "The art of programming is the skill of controlling complexity. The great program is measured by its simplicity." - Mary Ann Hollar
+
+## 📈 Commit History
+
+![Commit History](https://activity-graph.herokuapp.com/graph?username=Bfrpaulon&theme=react-dark)
+
+## 📚 Danki Code FullStack Courses
+
+- **FrontEnd Master**: HTML, CSS, JavaScript, ReactJS, Next.js
+- **BackEnd Master**: Node.js, Express.js, MongoDB
+- **FullStack Master**: Django, SQL, SQLite
 
 ## 🤝 Soft Skills
 
