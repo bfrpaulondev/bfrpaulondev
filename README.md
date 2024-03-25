@@ -6,10 +6,25 @@ I am a seasoned FullStack MERN developer with a passion for crafting efficient a
 
 ## 🛠️ Hard Skills
 
-- **MERN Stack**: Proficient in MongoDB, Express.js, ReactJS, and Node.js, I excel in building robust and scalable web applications.
-- **Front-End Mastery**: Specializing in HTML, CSS, JavaScript, TypeScript, ReactJS, and NextJS, I create captivating user interfaces that deliver exceptional user experiences.
-- **Interface Design**: With a keen eye for detail and a deep understanding of usability principles, I design intuitive interfaces that resonate with users.
-- **Diverse Project Portfolio**: From dynamic landing pages and institutional websites to feature-rich web apps and mobile applications using React Native, I have a proven track record of delivering successful projects across various domains.
+### MERN Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
+### Front-End Mastery
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+
+### Interface Design
+![UI/UX](https://img.shields.io/badge/-UI%2FUX-4A90E2?logo=figma&logoColor=white&style=flat)
+
+### Diverse Project Portfolio
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat)
 
 ## 🤝 Soft Skills
 
