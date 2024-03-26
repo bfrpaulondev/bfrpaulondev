@@ -24,7 +24,6 @@ I am a seasoned FullStack MERN developer with a passion for crafting efficient a
 
 ### Other Technologies
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/186367a6-3c67-4c88-b333-e88a9a248e41/deploy-status)](https://app.netlify.com/sites/bfrpaulondev/deploys)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
