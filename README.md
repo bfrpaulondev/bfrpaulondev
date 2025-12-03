@@ -5,7 +5,7 @@
 🌍 Open to remote roles in **USA, Canada & Switzerland**  
 
 I’m a developer who loves turning ideas into scalable products.  
-With **5+ years of experience** and **100+ projects delivered**, I focus on clean code, performance, and user-first solutions.  
+With **5+ years of experience** and **20+ projects delivered**, I focus on clean code, performance, and user-first solutions.  
 Code + coffee (☕) is my daily combo.  
 
 ---
