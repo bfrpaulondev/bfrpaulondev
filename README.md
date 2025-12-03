@@ -31,7 +31,7 @@ Code + coffee (☕) is my daily combo.
 
 ## 📌 Career Highlights  
 - 🏢 **Acidados SA** – built scalable web apps & PHC CS customizations for major clients  
-- 🌐 **Freelancer @ Workana** – delivered **100+ full-stack projects** worldwide  
+- 🌐 **Freelancer @ Workana** – delivered **20+ full-stack projects** worldwide  
 - 🛠 **MiosTech** – contributed to multiple projects, including:  
   - 📲 Built a **React Native app** to discover Portuguese taverns & daily specials  
   - 🎮 Developed a **gamified website for RED Canids Brazil esports team**  
