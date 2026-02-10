@@ -17,10 +17,10 @@
 <!-- LINKS RÁPIDOS -->
 <div align="center">
   
-<a href="https://www.linkedin.com/in/bfrpaulondev">
+<a href="https://www.linkedin.com/in/bruno-paulon-react">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:brunopaulon@outlook.com.br">
+<a href="mailto:bfrpaulondev@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://bfrpaulon-portofolio.vercel.app">
@@ -376,13 +376,13 @@ const brunoPaulon = {
 
 <br/>
 
-<a href="mailto:brunopaulon@outlook.com.br">
-  <img src="https://img.shields.io/badge/📧_HIRE_ME-brunopaulon@outlook.com.br-a855f7?style=for-the-badge&labelColor=1a1a2e"/>
+<a href="mailto:bfrpaulondev@gmail.com">
+  <img src="https://img.shields.io/badge/📧_HIRE_ME-bfrpaulondev@gmail.com-a855f7?style=for-the-badge&labelColor=1a1a2e"/>
 </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/bfrpaulondev">
+<a href="https://www.linkedin.com/in/bruno-paulon-react/">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
